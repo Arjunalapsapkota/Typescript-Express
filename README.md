@@ -1,3 +1,3 @@
-![example workflow](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/nodeBuild.yml/badge.svg)
+![example workflow](https://github.com/Arjunalapsapkota/Typescript-Express/actions/workflows/nodeBuild.yml/badge.svg)
 # Typescript-Express
 A quick starter template for Typescript project
